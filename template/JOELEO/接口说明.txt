@@ -1,0 +1,3 @@
+模板上传到根目录，template文件夹里边解压，然后在后台，网站设置，手机模板
+
+动漫采集接口https://www.yaliyali.cc/api.php/provide/vod/?ac=list
